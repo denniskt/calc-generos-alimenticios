@@ -1,0 +1,46 @@
+#labels Featured
+--------
+OBJETIVO
+--------
+Projetar, desenvolver e difundir um aplicativo na plataforma Android. O projeto deverá ser desenvolvido individualmente ou em grupo de no máximo 4 alunos.
+
+-------
+ENTREGA
+-------
+O projeto deverá ser publicado através do formulário abaixo:
+http://www.fatecpg.com.br/fatec/ads/pdm/Lists/Projetos%20de%20Android/NewForm.aspx
+
+O projeto ficará publicado no quadro "Projetos de Android" disponível no link abaixo:
+http://www.fatecpg.com.br/fatec/ads/pdm/pages/projetos.aspx
+
+O registro poderá ser alterado a qualquer momento, mas somente pelo seu criador. O prazo máximo para inclusão da URL do projeto é 16h40min de 24/06/2013.
+
+----------------------
+CRITÉRIOS DE AVALIAÇÃO
+----------------------
+Cada questão respondida com "SIM" somará 0,25 pontos à nota final, cujo valor máximo é 5.
+
+1) ORIGINALIDADE:
+1.1) O aplicativo tem um propósito original se comparado aos outros aplicativos disponíveis no Google Play?
+2) PROJETO:
+2.1) O projeto está hospado no Google Code Hosting?
+2.2) As submissões estão comentadas?
+2.3) Há um máximo de 40% de submissões de cada membro da equipe?
+2.4) Há um mínimo de 20% de submissões de cada membro da equipe?
+2.5) Há uma página inicial com visão geral do projeto e difusão do aplicativo?
+2.6) Há uma página com instruções para colaboração com o projeto?
+2.7) Há página com instruções de instalação do aplicativo?
+3) DESENVOLVIMENTO:
+3.1) O aplicativo pôde ser compilado?
+3.2) Os controles das activities estão alinhados?
+3.3) Os controles das activities estão adaptados à diferentes tipos de tela?
+3.4) A navegação entre as activities está intuitiva?
+3.5) A interação com o usuário está prática e funcional?
+3.6) O código-fonte está comentado e otimizado?
+4) DIFUSÃO:
+4.1) Há uma landing page com visão geral, instruções e informações para contato?
+4.2) Há um banner ilustrativo de 200px x 200px do aplicativo?
+4.3) O arquivo .APK está disponível paa download?
+4.4) O aplicativo está publicado no GooglePlay?
+4.5) O aplicativo pôde ser inicializado sem erros?
+4.6) As funcões do aplicativo foram executadas sem erro?

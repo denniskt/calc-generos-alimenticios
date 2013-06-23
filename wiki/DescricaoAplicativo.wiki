@@ -1,11 +1,13 @@
 =Calculadora de Gêneros Alimentícios=
 
-Grupo: Géssica;<br>
+=Desenvolvedores=
+       Géssica;<br>
        Dennis;<br>
        João Paulo; <br>
        e Wesley <br>
 
-Descrição: este aplicativo será útil em cozinhas industriais para cálculo diário de alguns gêneros de alimentação.<BR>
+=Descrição=
+Este aplicativo será útil em cozinhas industriais para cálculo diário de alguns gêneros de alimentação.<BR>
 Os itens a serem calculados possuem uma quantidade tabelar por pessoa calculada e utiizada pelo exército brasileiro.<BR>
 Os itens a serem calculados serão: café, margarina, arroz, feijão, carnes diversas, óleo, sal, macarrão, açúcar e leite.<BR>
 O APLICATIVO solicitará ao usuário as quantidades de pessoas que irão tomar café, almoçar e jantar. Os valores informados pelos usuários serão utilizados em três formulas: 1ª fórmula=c (quantidade do café) utilizada para cálculo de café e margarina, 2ª fómula (a+j)/2 (quantidade do almoço + quantidade do jantar)/2 utilizada para cálculo de arroz, feijão, carnes diversas, óleo, sal e macarrão.<BR>3ª fórmula: c/2 + (a+j)/4 (café dividido por 2 + (almoço + jantar) dividido por 4) para açúcar e leite.<BR>

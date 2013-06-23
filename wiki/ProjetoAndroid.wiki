@@ -1,6 +1,6 @@
 #labels Featured
 ==OBJETIVO==
-O objetivo deste deste trabalho é projetar, desenvolver e difundir um aplicativo na plataforma Android. O projeto deverá ser desenvolvido individualmente ou em grupo de no máximo 4 alunos. Equipe deste projeto: Denis, Géssica, João Paulo e Wesley.
+O objetivo deste deste trabalho é projetar, desenvolver e difundir um aplicativo na plataforma Android. O projeto deverá ser desenvolvido individualmente ou em grupo de no máximo 4 alunos. Membros deste projeto: Denis, Géssica, João Paulo e Wesley.
 <p>
 ==ENTREGA==
 O projeto deverá ser publicado através do formulário abaixo:

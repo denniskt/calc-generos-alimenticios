@@ -1,6 +1,6 @@
 #labels Featured
 ==OBJETIVO==
-Projetar, desenvolver e difundir um aplicativo na plataforma Android. O projeto deverá ser desenvolvido individualmente ou em grupo de no máximo 4 alunos.
+O objetivo deste deste trabalho é Projetar, desenvolver e difundir um aplicativo na plataforma Android. O projeto deverá ser desenvolvido individualmente ou em grupo de no máximo 4 alunos.
 <p>
 ==ENTREGA==
 O projeto deverá ser publicado através do formulário abaixo:

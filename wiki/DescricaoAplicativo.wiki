@@ -1,12 +1,12 @@
 =Calculadora de Gêneros Alimentícios=
 
-=Desenvolvedores=
+==Desenvolvedores==
        Géssica;<br>
        Dennis;<br>
        João Paulo; <br>
        e Wesley <br>
 
-=Descrição=
+==Descrição==
 Este aplicativo será útil em cozinhas industriais para cálculo diário de alguns gêneros de alimentação.<BR>
 Os itens a serem calculados possuem uma quantidade tabelar por pessoa calculada e utiizada pelo exército brasileiro.<BR>
 Os itens a serem calculados serão: café, margarina, arroz, feijão, carnes diversas, óleo, sal, macarrão, açúcar e leite.<BR>

@@ -1,4 +1,4 @@
-=titulo: Calculadora Generos Alimentícios=
+=Título: Calculadora de Gêneros Alimentícios=
 
 Grupo: Géssica, Dennis, João Paulo e Wesley
 

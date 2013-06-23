@@ -1,6 +1,6 @@
 =titulo: Calculadora Generos Alimenticios=
 
-grupo: Géssica, Dennis, João Paulo e Wesley
+Grupo: Géssica, Dennis, João Paulo e Wesley
 
 descrição: o aplicativo será útil em cozinhas industriais para cálculo diário de alguns gêneros de alimentação.<BR>
 Os itens a serem calculados possuem uma quantidade tabelar por pessoa calculada e utiizada pelo exército brasileiro.<BR>

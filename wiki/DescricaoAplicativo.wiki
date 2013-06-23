@@ -14,7 +14,7 @@ almoço:
 jantar:
 
 
-fórmulas:
+Fórmulas:
 1ª c;
 itens: café, margarina
 2ª (a+j)/2;

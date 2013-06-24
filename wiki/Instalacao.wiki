@@ -1,4 +1,4 @@
-#Informações sobre a instalação do aplicativo
+#Informações sobre a instalação do aplicativo.
 
 = Introduction =
 

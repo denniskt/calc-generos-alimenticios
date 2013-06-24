@@ -17,5 +17,5 @@ Disponível em
  # Extrair os arquivos da pasta compactada baixada;
  # Executar o Eclipse do pacote ADT Bundle;
  # Abrir o menu File -> Import -> SNV -> Project from SNV;
- # Preencher o campo URI do Repositório com o link http://calc-generos-  alimenticios.googlecode.com/svn; 
+ # Preencher o campo URI do Repositório com o link [http://calc-generos-  alimenticios.googlecode.com/svn]; 
  # Clicar em Finish.
